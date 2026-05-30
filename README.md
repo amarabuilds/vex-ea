@@ -139,7 +139,7 @@ Absolutely. Just tell Claude Cowork what you want to change and it will update y
 
 If Vex saves you time, share it with someone who needs it.
 
-Follow [@sofia.angeles](#) on Instagram for more AI productivity tools.
+Follow [@amara_sofia_](#) on Instagram for more AI productivity tools.
 
 ---
 
