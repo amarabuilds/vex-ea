@@ -51,7 +51,7 @@ Before installing Vex, connect these tools in Claude Cowork:
 
 **Step 1 — Download the skill file**
 
-Download [`vex-public.skill`](./vex-public.skill) from this repo.
+Download [`vexV1-public.skill`](./vexV1-public.skill) from this repo.
 
 **Step 2 — Install in Claude Cowork**
 
