@@ -3,7 +3,7 @@
 
 Vex is a free AI executive assistant that runs inside [Claude Cowork](https://claude.ai). It scrapes your Slack, Gmail, and meeting notes every morning, weaves in your Google Calendar, auto-drafts client email responses, logs action items to Todoist, and delivers 5 structured briefs straight to your Slack DMs — so you start every day with full context and zero inbox anxiety.
 
-Built by [@sofia.angeles](https://www.instagram.com) for busy professionals who are tired of drowning in messages.
+Built by [@amara_sofia_](https://www.instagram.com) for busy professionals who are tired of drowning in messages.
 
 ---
 
